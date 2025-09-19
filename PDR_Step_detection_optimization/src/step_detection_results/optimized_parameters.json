@@ -1,0 +1,17 @@
+{
+  "optimized_parameters": {
+    "step_threshold": 0.6524066745545527,
+    "min_peak_distance": 34,
+    "base_step_length_cm": 65.3636820354676
+  },
+  "metadata": {
+    "optimization_date": "2025-09-19T15:58:48.706284",
+    "algorithm_version": "1.0",
+    "description": "Optimized parameters for step detection algorithm",
+    "parameter_descriptions": {
+      "step_threshold": "Threshold for step detection (0.2-1.0)",
+      "min_peak_distance": "Minimum distance between peaks in samples (15-80)",
+      "base_step_length_cm": "Base step length in centimeters (40-80)"
+    }
+  }
+}
