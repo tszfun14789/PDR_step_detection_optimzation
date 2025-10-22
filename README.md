@@ -45,7 +45,7 @@ python run_pdr_realtime.py
 
 ## Results Example
 
-![Step Detection Results](PDR_step_detection_optimization/assets/step_detection_example.png)
+![Step Detection Results](PDR_Step_detection_optimization/assets/step_detection_example.png)
 
 The visualization shows:
 - **Top**: Raw and filtered acceleration with detected steps (red dots)
